@@ -1,4 +1,6 @@
 # Contact information:
-## NameLastNAme-Nagoreanschi Ghenadie
-### Gmail-nagoreanschighenadie@gmail.com
+## NameLastNAme:
+Nagoreanschi Ghenadie
+### Gmail:
+nagoreanschighenadie@gmail.com
 
